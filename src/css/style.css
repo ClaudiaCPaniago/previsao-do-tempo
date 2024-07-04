@@ -145,3 +145,10 @@ body {
   width: 200px;
   margin-top: 20px;
 }
+
+/* Estilo para dispositivos móveis */
+@media (max-width: 600px) {
+  #temp_value {
+    font-size: 30px;
+  }
+}
