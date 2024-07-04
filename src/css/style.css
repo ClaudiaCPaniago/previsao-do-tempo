@@ -148,6 +148,9 @@ body {
 
 /* Estilo para dispositivos móveis */
 @media (max-width: 600px) {
+  #container {
+    margin: 10px 15px;
+  }
   #temp_value {
     font-size: 30px;
   }
